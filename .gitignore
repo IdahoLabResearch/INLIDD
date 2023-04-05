@@ -8,3 +8,4 @@ lab_dataset_captures/
 packetcsvs/
 zeeklogs/
 dnstunneluids
+.DS_Store
