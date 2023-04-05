@@ -54,3 +54,5 @@ The parsed pcap files as CSVs are located in `packetcsvs`
 
 The unlabeled zeek logs created from the pcap files located in `zeeklogs`
 
+To upload these files to github they had to be split into parts smaller than 2GB. this was done using `split`
+To recreate the original files simply run `bash recreate_data.sh` in the project's root directory
