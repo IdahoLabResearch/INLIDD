@@ -4,3 +4,8 @@ flows.csv
 dnstunneluids.pickle
 dnstemp.csv
 packets.pickle
+lab_dataset_captures/
+packetcsvs/
+zeeklogs/
+dnstunneluids
+.DS_Store
